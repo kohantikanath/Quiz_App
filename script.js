@@ -16,6 +16,22 @@ let questions = [
     answer: 4,
   },
   {
+    question: "Which HTML tag is used to define a hyperlink?",
+    choice1: "link",
+    choice2: "a",
+    choice3: "href",
+    choice4: "anchor",
+    answer: 2
+  },
+  {
+    question: "Which HTML tag is used to define a list item?",
+    choice1: "list",
+    choice2: "ul",
+    choice3: "li",
+    choice4: "ol",
+    answer: 3
+  },
+  {
     question: "Which of the following is the correct way to comment in HTML?",
     choice1: "// Comment",
     choice2: "<!-- Comment -->",
